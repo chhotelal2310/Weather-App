@@ -131,7 +131,7 @@ body {
 }
 
 
-@media screen and (max-width:302px) {
+@media screen and (max-width:352px) {
     .search input {
         padding: 5px 10px;
         height: 42px;
