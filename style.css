@@ -113,13 +113,9 @@ body{
 @media screen and (min-width:352px) {
     .card {
         width: 96%;
-        max-width: 470px;
-        background: linear-gradient(135deg,#00feba,#5b548a);
-        color: #fff;
         margin: 43px auto 0;
         border-radius: 22px;
         padding: 15px 6px;
-        text-align: center;
     }
     .search input {
         height: 48px;
