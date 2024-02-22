@@ -110,6 +110,27 @@ body{
 #cama{
     font-size:50px;
 }
+
+
+@media screen and (max-width:352px) {
+    .search input {
+        padding: 5px 10px;
+        height: 42px;
+        border-radius: 36px;
+        margin-right: 11px;
+        font-size: 16px;
+    }
+    .card {
+        width: 96%;
+        max-width: 470px;
+        border-radius: 20px;
+        padding: 14px 5px;
+        text-align: center;
+    }
+    .search button {
+        height: 60px;
+    }
+}
 @media screen and (min-width:352px) {
     .card {
         width: 96%;
@@ -129,3 +150,4 @@ body{
     }
     
 }
+
