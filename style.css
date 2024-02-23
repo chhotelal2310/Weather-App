@@ -131,7 +131,7 @@ body {
 }
 
 
-@media screen and (max-width:352px) {
+@media screen and (min-width:302px) {
     .search input {
         padding: 5px 10px;
         height: 42px;
@@ -153,7 +153,7 @@ body {
     }
 }
 
-@media screen and (min-width:352px) {
+@media screen and (min-width:352px){
     .card {
         width: 96%;
         margin: 43px auto 0;
@@ -166,7 +166,7 @@ body {
     }
 }
 
-@media screen and (min-width:380px) {
+@media screen and (min-width:380px){
     .card {
         width: 96%;
         padding: 26px 21px;
